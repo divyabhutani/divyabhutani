@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya Bhutani</h1>
-<h3 align="center">Software Engineer Intern | Passionate about FinTech, AI, and Scalable Solutions</h3>
+<h3 align="center">Software Engineer | Passionate about FinTech, AI, and Scalable Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyabhutani&label=Profile%20views&color=0e75b6&style=flat" alt="divyabhutani" /> </p>
 
